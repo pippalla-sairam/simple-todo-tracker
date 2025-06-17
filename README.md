@@ -1,8 +1,8 @@
-# ✅ Simple To-Do List App  
+# Simple To-Do List App  
 
 A lightweight and responsive **To-Do List App** built using **Vite + React** with **Local Storage** for data persistence and styled with **Tailwind CSS**.
 
-## ✨ Features  
+## Features  
 
 - **Add Tasks:** Quickly add new tasks to the list.  
 - **Mark as Complete:** Toggle task completion status.  
@@ -11,13 +11,13 @@ A lightweight and responsive **To-Do List App** built using **Vite + React** wit
 - **Local Storage Support:** Tasks persist even after refreshing the page.  
 - **Responsive UI:** Clean design with **Tailwind CSS**.  
 
-## 🛠 Tech Stack  
+## Tech Stack  
 
 - **Frontend:** React + Vite  
 - **Storage:** Local Storage API  
 - **Styling:** Tailwind CSS  
 
-## 🚀 Installation & Setup  
+## Installation & Setup  
 
 1. **Clone the repository:**  
    ```sh
@@ -35,14 +35,8 @@ A lightweight and responsive **To-Do List App** built using **Vite + React** wit
    npm run dev
    ```
 
-4. Open the app in your browser at `http://localhost:5173`.
+4. Open the app in your browser at `http://localhost:5173`. 
 
-## 🎯 Future Enhancements  
-
-- **Drag & Drop:** Reorder tasks by dragging.  
-- **Due Dates & Reminders:** Set task deadlines.  
-- **Dark Mode:** Implement theme switching.  
-
-## 🤝 Contributing  
+## Contributing  
 
 Contributions are welcome! Feel free to fork and submit a pull request.
